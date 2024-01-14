@@ -25,7 +25,7 @@ This repository contains information about Data Analysis, including the course o
 
 Dr. Oliver Bonham-Carter  (Note: said and written as __Bonham-Carter__, not _Carter_)
 
-Office Location: Alden Hall 105
+Office Location: Alden Hall 203
 
 Email: obonhamcarter@allegheny.edu
 
@@ -54,8 +54,8 @@ Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-580-Allegheny-College
 
 ## Course Deliverable
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
- * Exam code "D"
- * Due: 5th May 2023, 9:00am
+ * Exam code "F"
+ * Due: 3th May 2024, 7:00pm
 
 ## Course Description
 Credits: 4
