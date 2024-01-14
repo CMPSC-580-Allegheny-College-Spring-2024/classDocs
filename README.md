@@ -41,24 +41,23 @@ Email: obonhamcarter@allegheny.edu
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
 
-### Calendar
+<!-- ### Calendar
 
-[Course Calendar Link](https://calendar.google.com/calendar/u/0?cid=Y19hNTg4ZDZiYjQzZDUxYWNiMTJhZjhjMDZhOGVjMWQwOGQyZDQ4YmQ3NDNmNWQ5ZTE0YmFmNzMwYmM3ZDc3NGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+[Course Calendar Link](https://calendar.google.com/calendar/u/0?cid=Y19hNTg4ZDZiYjQzZDUxYWNiMTJhZjhjMDZhOGVjMWQwOGQyZDQ4YmQ3NDNmNWQ5ZTE0YmFmNzMwYmM3ZDc3NGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) -->
 
 <!-- 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_a588d6bb43d51acb12af8c06a8ec1d08d2d48bd743f5d9e14baf730bc7d774b3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
-## `classDocs/`
-All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
-Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs)
 
 ## Course Deliverable
+
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
  * Exam code "F"
  * Due: 3th May 2024, 7:00pm
 
 ## Course Description
-Credits: 4
+
+* Credits: 4
 
 An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
