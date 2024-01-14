@@ -196,6 +196,24 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 Below is a **tentative** schedule of covered topics as we cover them, along with their associated activities.
 
+For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
+
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | | Welcome |
+1 | Wed, 17 Jan      | Welcome |
+1 | Fri, 19 Jan      |      |
+2 | 22 Jan - 26      |      |
+3 | 29 Jan - 2 Feb   |      |
+4 | 5 - 9 Feb        |      |
+5 | 12 - 16 Feb      |      |
+6 | 19 - 23 Feb      |      |
+7 | 26 - 1 Mar       |      |
+8 | SPRING-BREAK     |      |
+9 | 11 - 15 Mar      |      |
+10 | 18 - 22 Mar     |      |
+11 | 25 - 29 Mar     |      |
+12 | 1 - 5 Apr       |      |
+13 | 8 - 12 Apr      |      |
+14 | 15 - 19 Apr     |      |
+15 | 22 - 26 Apr     |      |
+16 | No class        |      |
