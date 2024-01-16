@@ -2,23 +2,23 @@
 
 This repository contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
-# Content
+## Content
 
-- [SCHEDULE](#Schedule)
-- [Instructor](#Instructor)
-- [Meeting Times](#Meeting-times)
-- [Discord](#Discord)
-- [Course Calendar](#Calendar)
-- [`classDocs/`](#Classdocs)
-- [Deliverable](#Course-Deliverable)
-- [Course Description](#Course-Description)
-- [Distribution Requirements](#Distribution-Requirements)
-- [Suggested Textbooks](#Suggested-Textbooks)
-- [Course Policies](#Course-Policies)
+- [SCHEDULE](#schedule)
+- [Instructor](#instructor)
+- [Meeting Times](#meeting-times)
+- [Discord](#discord)
+- [Course Calendar](#calendar)
+- [`classDocs/`](#classdocs)
+- [Deliverable](#course-deliverable)
+- [Course Description](#course-description)
+- [Distribution Requirements](#distribution-requirements)
+- [Suggested Textbooks](#suggested-textbooks)
+- [Course Policies](#course-policies)
 - [Grading](#grading)
-- [Assignment Submissions](#Assignment-Submissions)
-- [Gradebook Repository](#Gradebook-Repository)
-- [Assistance](#Assistance)
+- [Assignment Submissions](#assignment-submissions)
+- [Gradebook Repository](#gradebook-repository)
+- [Assistance](#assistance)
 
 ## Instructor
 
@@ -40,13 +40,9 @@ Email: obonhamcarter@allegheny.edu
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
 
-<!-- ### Calendar
+### Calendar
 
-[Course Calendar Link](https://calendar.google.com/calendar/u/0?cid=Y19hNTg4ZDZiYjQzZDUxYWNiMTJhZjhjMDZhOGVjMWQwOGQyZDQ4YmQ3NDNmNWQ5ZTE0YmFmNzMwYmM3ZDc3NGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) -->
-
-<!-- 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_a588d6bb43d51acb12af8c06a8ec1d08d2d48bd743f5d9e14baf730bc7d774b3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
+[Class calendar](https://calendar.google.com/calendar/embed?src=c_650afc126950006da41aa2df364674e9305500bbce4217be31b47a8d6ef5170b%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ## Course Deliverable
 
@@ -56,7 +52,7 @@ If you are already on the department's Discord server, then you will be given ac
 
 ## Course Description
 
-* Credits: 4
+- Credits: 4
 
 An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
@@ -65,15 +61,16 @@ Prerequisite: FS*102 or FS*200, or permission of the instructor.
 ## Course Objectives
 
 Students learn to begin and complete an academic research project. In this task, students learn how to;
-* Determine ideas for own research projects
-* Locate literature for idea
-* Determine research project goals and research question
-* Assess scope
-* Demonstrate feasibility
-  + Create preliminary data, code, or a product. 
-* Determine next steps in the project
-* Write a proposal
-* Other steps involved with research
+
+- Determine ideas for own research projects
+- Locate literature for idea
+- Determine research project goals and research question
+- Assess scope
+- Demonstrate feasibility
+  - Create preliminary data, code, or a product. 
+- Determine next steps in the project
+- Write a proposal
+- Other steps involved with research
 
 ## An Ethical Interest
 
@@ -81,19 +78,19 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
 
 ## Suggested TextBooks
 
-* Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
+- Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
 
-  + [Book Website](https://r4ds.had.co.nz/)
+  - [Book Website](https://r4ds.had.co.nz/)
 
-* Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
+- Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
 
-  + [Book Website](https://www.tidytextmining.com/)
+  - [Book Website](https://www.tidytextmining.com/)
 
-#### Other Useful Textbooks:
+#### Other Useful Textbooks
 
-* BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+- BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
-* Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+- Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ## Course Policies
 
@@ -119,11 +116,11 @@ The grade that a student receives in this class will be based on the following c
 
 ### Definitions of Grading Categories
 
- + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
+- __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
 
- + __Assignments (in class and laboratory)__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of the class. Skills which were discuss in class will be important to students for their work on these assignments. Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of their work and efforts.
+- __Assignments (in class and laboratory)__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of the class. Skills which were discuss in class will be important to students for their work on these assignments. Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of their work and efforts.
 
- + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply **all** of the work and skills that you have already acquired in the course during the semester to address a research problem. The details for the final project will be given in class.
+- __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply **all** of the work and skills that you have already acquired in the course during the semester to address a research problem. The details for the final project will be given in class.
 
 ### Assignment Submission
 
@@ -204,14 +201,13 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 ### Schedule
 
-Below is a **tentative** schedule of covered topics as we cover them, along with their associated activities.
+Below is a __tentative__ schedule of covered topics as we cover them, along with their associated activities.
 
 For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome  |
-1 | Fri, 19 Jan      | Syllabus |
+1 | Wed, 17 Jan      | Welcome, Syllabus  |
 2 | 22 Jan - 26      |      |
 3 | 29 Jan - 2 Feb   |      |
 4 | 5 - 9 Feb        |      |
