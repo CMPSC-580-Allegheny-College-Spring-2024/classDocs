@@ -210,8 +210,8 @@ For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome |
-1 | Fri, 19 Jan      |      |
+1 | Wed, 17 Jan      | Welcome  |
+1 | Fri, 19 Jan      | Syllabus |
 2 | 22 Jan - 26      |      |
 3 | 29 Jan - 2 Feb   |      |
 4 | 5 - 9 Feb        |      |
