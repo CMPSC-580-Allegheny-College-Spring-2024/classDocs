@@ -126,27 +126,42 @@ The grade that a student receives in this class will be based on the following c
 
  + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply **all** of the work and skills that you have already acquired in the course during the semester to address a research problem. The details for the final project will be given in class.
 
-### Assignment Submissions
+### Assignment Submission
 
-Your instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
+Your class instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
 
-The three basic commands for submitting work are the following.
+All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
 
-``` bash
-git add -A
-git commit -m "informative message"
-git push
-```
+### Attendance
 
-### Late Submissions
-
-All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
-
-**Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the assignment's grade will not be accepted.** 
+It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Extensions
 
-Unless special arrangements are made with the course instructor, **no assignments will be accepted after the late deadline.** If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
+Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+
+The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
+
+### A note on extenuating circumstances
+
+If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
+
+- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
+
+### Late Submissions
+
+All assignments will have a stated due date and a late deadline (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
+
+__Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the lab will not be accepted.__
+
+__Please note, lab solutions will be discussed after the one week late submission deadline. Therefore, any submission of the assignments following that deadline will not be possible.__
+
+### Extensions
+
+Unless special arrangements are made with the course instructor, __no assignments will be accepted after the late deadline.__ If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a _valid_ reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
 The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
@@ -155,10 +170,6 @@ The decision to provide you with an extension (or not) will be weighed in light 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
-
-### Gradebook Repository
-
-* [Gradebook Repository](https://classroom.github.com/a/YQZCHw1t)
 
 ### Bring your own computer to class
 
@@ -172,10 +183,11 @@ The Americans with Disabilities Act (ADA) is a federal anti-discrimination statu
 
 Some of the resources on campus are listed below.
 
-*  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-*  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-*  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-*  [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Honor Code
 
