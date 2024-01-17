@@ -32,9 +32,11 @@ Email: obonhamcarter@allegheny.edu
 
 ## Meeting Times
 
-* M/W/F 1:30 PM - 2:20 PM
-* 1/16/2024 - 5/7/2024
-* Alden Hall, 101 Lecture
+- M/W/F 1:30 PM - 2:20 PM
+- 1/16/2024 - 5/7/2024
+- Alden Hall, 101 Lecture
+
+Note: There is no lab for this course.
 
 ### Discord
 
@@ -67,7 +69,7 @@ Students learn to begin and complete an academic research project. In this task,
 - Determine research project goals and research question
 - Assess scope
 - Demonstrate feasibility
-  - Create preliminary data, code, or a product. 
+  - Create preliminary data, code, or a product.
 - Determine next steps in the project
 - Write a proposal
 - Other steps involved with research
@@ -101,8 +103,8 @@ The grade that a student receives in this class will be based on the following c
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
 |Class Participation   | 30%        | check mark grade
-|Assignments           | 30%        | letter grade
-|Final Project         | 40%        | letter grade
+|Assignments           | 40%        | letter grade
+|Final Project         | 30%        | letter grade
 |Total                 | 100%       |
 
 #### Grading Scale
@@ -207,7 +209,7 @@ For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome, Syllabus  |
+1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7)  |
 2 | 22 Jan - 26      |      |
 3 | 29 Jan - 2 Feb   |      |
 4 | 5 - 9 Feb        |      |
