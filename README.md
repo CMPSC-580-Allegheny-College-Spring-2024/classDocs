@@ -213,16 +213,16 @@ Week # | Dates   | Topic |
 1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7) |
 2 | 22 Jan - 26      | Introduction to Literature Review |
 3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: Literature review of project material |
-4 | 5 - 9 Feb        | Dept Project Prototype Development: Method selection |
-5 | 12 - 16 Feb      | Dept Project Prototype Development: Implementation |
-6 | 19 - 23 Feb      | Dept Project Prototype Development: Testing |
-7 | 26 - 1 Mar       | Dept Project Prototype Development: Experiments and results |
+4 | 5 - 9 Feb        | __Dept Project Prototype Development__: Method selection |
+5 | 12 - 16 Feb      | __Dept Project Prototype Development__: Implementation |
+6 | 19 - 23 Feb      | __Dept Project Prototype Development__: Testing |
+7 | 26 - 1 Mar       | __Dept Project Prototype Development__: Experiments and results |
 8 | SPRING-BREAK     | Spring Break |
-9 | 11 - 15 Mar      | Own Project: Idea exploration, Literature review and feasibility |
-10 | 18 - 22 Mar     | Own Project: Method exploration, Prototype development |
-11 | 25 - 29 Mar     | Own Project: Prototype development|
-12 | 1 - 5 Apr       | Own Project: Project Idea Pitches|
-13 | 8 - 12 Apr      | Own Project: Project Idea Pitches|
-14 | 15 - 19 Apr     | Own Project: Project Idea Feedback and Revision |
-15 | 22 - 26 Apr     | Project Proposal |
-16 | 29 April        | Project proposal due  |
+9 | 11 - 15 Mar      | __Own Project__: Idea exploration, Literature review and feasibility |
+10 | 18 - 22 Mar     | __Own Project__: Method exploration, Prototype development |
+11 | 25 - 29 Mar     | __Own Project__: Prototype development|
+12 | 1 - 5 Apr       | __Own Project__: Project Idea Pitches|
+13 | 8 - 12 Apr      | __Own Project__: Project Idea Pitches|
+14 | 15 - 19 Apr     | __Own Project__: Project Idea Feedback and Revision |
+15 | 22 - 26 Apr     | __Own Project Proposal__ |
+16 | 29 April        | __Own Project Proposal__: due  |
