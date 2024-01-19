@@ -12,6 +12,7 @@ This repository contains information about Data Analysis, including the course o
 - [`classDocs/`](#classdocs)
 - [Deliverable](#course-deliverable)
 - [Course Description](#course-description)
+- [Learning Objectives](#learning-objectives)
 - [Distribution Requirements](#distribution-requirements)
 - [Suggested Textbooks](#suggested-textbooks)
 - [Course Policies](#course-policies)
@@ -60,19 +61,15 @@ An introduction to computational methods of data analysis with an emphasis on un
 
 Prerequisite: FS*102 or FS*200, or permission of the instructor. 
 
-## Course Objectives
+## Learning Objectives
 
 Students learn to begin and complete an academic research project. In this task, students learn how to;
 
-- Determine ideas for own research projects
-- Locate literature for idea
-- Determine research project goals and research question
-- Assess scope
-- Demonstrate feasibility
-  - Create preliminary data, code, or a product.
-- Determine next steps in the project
-- Write a proposal
-- Other steps involved with research
+- Illustrate a component of a viable and appropriate open-source research project idea.
+- Identify appropriate sources to motivate the research idea and determine research project objectives.
+- Demonstrate feasibility of a research idea through an application of existing computational resources.
+- Describe a research idea, its motivation, goals, and anticipated outcomes in writing.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
 
 ## An Ethical Interest
 
@@ -205,23 +202,25 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 Below is a __tentative__ schedule of covered topics as we cover them, along with their associated activities.
 
-For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
+For Monday, Wednesday Meetings, we will be following the below calendar. However, since this course has been integrating with the 610 session, you will have an opportunity to engage with with seniors for comprehensive work shadowing and peer-review opportunities.
+
+
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7)  |
-2 | 22 Jan - 26      |      |
-3 | 29 Jan - 2 Feb   |      |
-4 | 5 - 9 Feb        |      |
-5 | 12 - 16 Feb      |      |
-6 | 19 - 23 Feb      |      |
-7 | 26 - 1 Mar       |      |
-8 | SPRING-BREAK     |      |
-9 | 11 - 15 Mar      |      |
-10 | 18 - 22 Mar     |      |
-11 | 25 - 29 Mar     |      |
-12 | 1 - 5 Apr       |      |
-13 | 8 - 12 Apr      |      |
-14 | 15 - 19 Apr     |      |
-15 | 22 - 26 Apr     |      |
-16 | No class        |      |
+1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7) |
+2 | 22 Jan - 26      | Introduction to Literature Review |
+3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: literature review of project material |
+4 | 5 - 9 Feb        | Prototype Development: Method selection |
+5 | 12 - 16 Feb      | Prototype Development: Implementation |
+6 | 19 - 23 Feb      | Prototype Development: Testing |
+7 | 26 - 1 Mar       | Prototype Development: Experiments and results |
+8 | SPRING-BREAK     | Spring Break |
+9 | 11 - 15 Mar      | Own Project: Idea exploration, Literature review and feasibility |
+10 | 18 - 22 Mar     | Own Project: Method exploration, Prototype development |
+11 | 25 - 29 Mar     | Own Project: Prototype development|
+12 | 1 - 5 Apr       | Own Project: Project Idea Pitches|
+13 | 8 - 12 Apr      | Own Project: Project Idea Pitches|
+14 | 15 - 19 Apr     | Own Project: Project Idea Feedback and Revision |
+15 | 22 - 26 Apr     | Project Proposal |
+16 | 29 April        | Project proposal due  |
