@@ -101,9 +101,9 @@ The grade that a student receives in this class will be based on the following c
 
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
-|Class Participation   | 30%        | check mark grade
-|Assignments           | 40%        | letter grade
-|Final Project         | 30%        | letter grade
+|Class Participation   | 40%        | check mark grade
+|Departmental Project  | 30%        | letter grade
+|Own Project           | 30%        | letter grade
 |Total                 | 100%       |
 
 #### Grading Scale
@@ -117,11 +117,11 @@ The grade that a student receives in this class will be based on the following c
 
 ### Definitions of Grading Categories
 
-- __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
+- __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as completing in-class exercises, leading a discussion session in class, engaging in peer review procesws wigh both fellow 580 and 610 students, complete activities as a part of a joint-session on Fridays with the 610 course.
 
-- __Assignments (in class and laboratory)__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of the class. Skills which were discuss in class will be important to students for their work on these assignments. Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of their work and efforts.
+- __Development of Departmental Project__: You will be given a project idea from the department to conduct a literature review, a method selection, an implementation of an artifact, complete prototype development, perform testing and complete an analysis of experimental results. At the completion of this project, you will submit a report of the idea.
 
-- __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply **all** of the work and skills that you have already acquired in the course during the semester to address a research problem. The details for the final project will be given in class.
+- __Development of Own Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply **all** of the work and skills that you have already acquired in the course during the semester to address a research problem. At the completion of this project, you will submit a proposal of your own idea. The details for the final project will be given in class.
 
 ### Assignment Submission
 
