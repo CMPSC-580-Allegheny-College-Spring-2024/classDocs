@@ -6,22 +6,26 @@ This repository contains information about Data Analysis, including the course o
 
 ## Content
 
-- [SCHEDULE](#schedule)
-- [Instructor](#instructor)
-- [Meeting Times](#meeting-times)
-- [Discord](#discord)
-- [Course Calendar](#calendar)
-- [`classDocs/`](#classdocs)
-- [Deliverable](#course-deliverable)
+- [Course Deliverable](#course-deliverable)
 - [Course Description](#course-description)
-- [Learning Objectives](#learning-outcomes)
-- [Distribution Requirements](#distribution-requirements)
-- [Suggested Textbooks](#suggested-textbooks)
+- [Learning Outcomes](#learning-outcomes)
+- [Suggested TextBooks](#suggested-textbooks)
+- [Other Useful Textbooks](#other-useful-textbooks)
 - [Course Policies](#course-policies)
 - [Grading](#grading)
-- [Assignment Submissions](#assignment-submissions)
-- [Gradebook Repository](#gradebook-repository)
-- [Assistance](#assistance)
+- [Grading Scale](#grading-scale)
+- [Definitions of Grading Categories](#definitions-of-grading-categories)
+- [Assignment Submission](#assignment-submission)
+- [Attendance](#attendance)
+- [Late Submissions](#late-submissions)
+- [Extensions](#extensions)
+- [A note on extenuating circumstances](#a-note-on-extenuating-circumstances)
+- [Communication](#communication)
+- [Bring your own computer to class](#bring-your-own-computer-to-class)
+- [Special Needs and Disability Services](#special-needs-and-disability-services)
+- [Honor Code](#honor-code)
+- [Welcome to Computer Science Research!](#welcome-to-computer-science-research)
+- [Schedule](#schedule)
 
 ## Instructor
 
@@ -45,23 +49,17 @@ Note: There is no lab for this course.
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
 
-### Calendar
-
-[Class calendar](https://calendar.google.com/calendar/embed?src=c_650afc126950006da41aa2df364674e9305500bbce4217be31b47a8d6ef5170b%40group.calendar.google.com&ctz=America%2FNew_York)
-
 ## Course Deliverable
 
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
- * Exam code "F"
+
  * Due: 3th May 2024, 7:00pm
 
 ## Course Description
 
 - Credits: 4
 
-An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
-
-Prerequisite: FS*102 or FS*200, or permission of the instructor. 
+An investigation of select topics in computer and information science that prepares students for the completion of a senior project with the purpose of identifying knowledge gaps in the discipline. Students learn how to read scholarly papers, state and motivate research questions, create a software prototype or develop scholarly artifacts to address their findings, and collect and organize evidence for evaluating the outcome of their project. During a weekly laboratory session students use industry-grade technology to gain practical skills in technical writing, the presentation of technical concepts, and the production of an artifact. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: Permission of instructor. Distribution Requirements: None.
 
 ## Learning Outcomes
 
@@ -73,25 +71,26 @@ Students learn to begin and complete an academic research project. In this task,
 - Describe a research idea, its motivation, goals, and anticipated outcomes in writing.
 - Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
 
-## An Ethical Interest
-
-Throughout the semester students will be exposed to famous dilemmas in technology which will arrive with discussions to encourage positive thinking in ethics. For example, the course will introduce students to ethically inclined concepts in the generation of technology. Such terms include liability, ethics, responsibility, privacy, information governance, data security and others.
-
 ## Suggested TextBooks
 
-- Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
+- Deetjen, Thomas A.. Published: A Guide to Literature Review, Outlining, Experimenting, Visualization, Writing, Editing, and Peer Review for Your First Scientific Journal Article. Poland: Productive Academic Press, 2020. ISBN: 9781734493108
 
-  - [Book Website](https://r4ds.had.co.nz/)
+- Dupre, L. (2000). BUGS in Writing: A Guide to Debugging Your Prose. United States: Addison-Wesley.
 
-- Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
+- Evans, D., Zobel, J., Gruba, P. (2014). How to Write a Better Thesis. Germany: Springer International Publishing.
 
-  - [Book Website](https://www.tidytextmining.com/)
+- Gruba, P., Zobel, J. (2017). How To Write Your First Thesis. Germany: Springer International Publishing. ISBN: 978-1-4471-6638-2
 
-#### Other Useful Textbooks
+Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
 
-- BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+## Other Useful Textbooks
 
-- Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+- Think Python, first edition, by Allen B. Downey.
+  - Available online at; [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
+
+- BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupre. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998.
+
+- Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004.
 
 ## Course Policies
 
@@ -133,21 +132,6 @@ All assignments will have a stated due date. The electronic version of the class
 
 It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
-### Extensions
-
-Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
-
-The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
-
-### A note on extenuating circumstances
-
-If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
-
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
-
 ### Late Submissions
 
 All assignments will have a stated due date and a late deadline (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
@@ -161,6 +145,15 @@ __Please note, lab solutions will be discussed after the one week late submissio
 Unless special arrangements are made with the course instructor, __no assignments will be accepted after the late deadline.__ If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a _valid_ reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
 The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+
+### A note on extenuating circumstances
+
+If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
+
+- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ### Communication
 
