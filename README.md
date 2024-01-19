@@ -210,7 +210,8 @@ For Monday, Wednesday Meetings, we will be following the below calendar. However
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7) |
+1 | Wed, 17 Jan      | Welcome, [Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
+1 | Friday 19 Jan    | 610 activity [Peer review form](https://forms.gle/SHH7VAAYb1ywgVnA8)|
 2 | 22 Jan - 26      | Introduction to Literature Review |
 3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: Literature review of project material |
 4 | 5 - 9 Feb        | __Dept Project Prototype Development__: Method selection |
