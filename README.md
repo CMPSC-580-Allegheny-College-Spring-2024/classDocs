@@ -14,7 +14,7 @@ This repository contains information about Data Analysis, including the course o
 - [`classDocs/`](#classdocs)
 - [Deliverable](#course-deliverable)
 - [Course Description](#course-description)
-- [Learning Objectives](#learning-objectives)
+- [Learning Objectives](#learning-outcomes)
 - [Distribution Requirements](#distribution-requirements)
 - [Suggested Textbooks](#suggested-textbooks)
 - [Course Policies](#course-policies)
@@ -63,7 +63,7 @@ An introduction to computational methods of data analysis with an emphasis on un
 
 Prerequisite: FS*102 or FS*200, or permission of the instructor. 
 
-## Learning Objectives
+## Learning Outcomes
 
 Students learn to begin and complete an academic research project. In this task, students learn how to;
 
