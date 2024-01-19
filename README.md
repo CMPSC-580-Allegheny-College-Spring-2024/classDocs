@@ -213,10 +213,10 @@ Week # | Dates   | Topic |
 1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/ChnPifDU4ETRTNiH7) |
 2 | 22 Jan - 26      | Introduction to Literature Review |
 3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: Literature review of project material |
-4 | 5 - 9 Feb        | Prototype Development: Method selection |
-5 | 12 - 16 Feb      | Prototype Development: Implementation |
-6 | 19 - 23 Feb      | Prototype Development: Testing |
-7 | 26 - 1 Mar       | Prototype Development: Experiments and results |
+4 | 5 - 9 Feb        | Dept Project Prototype Development: Method selection |
+5 | 12 - 16 Feb      | Dept Project Prototype Development: Implementation |
+6 | 19 - 23 Feb      | Dept Project Prototype Development: Testing |
+7 | 26 - 1 Mar       | Dept Project Prototype Development: Experiments and results |
 8 | SPRING-BREAK     | Spring Break |
 9 | 11 - 15 Mar      | Own Project: Idea exploration, Literature review and feasibility |
 10 | 18 - 22 Mar     | Own Project: Method exploration, Prototype development |
