@@ -6,6 +6,7 @@ This repository contains information about Data Analysis, including the course o
 
 ## Content
 
+- [Schedule](#schedule)
 - [Course Deliverable](#course-deliverable)
 - [Course Description](#course-description)
 - [Learning Outcomes](#learning-outcomes)
