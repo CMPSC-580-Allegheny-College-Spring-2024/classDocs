@@ -204,9 +204,9 @@ For Monday, Wednesday Meetings, we will be following the below calendar. However
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome, [Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
-1 | Friday 19 Jan    | 610 activity [Peer review form](https://forms.gle/SHH7VAAYb1ywgVnA8)|
-2 | 22 Jan - 26      | Introduction to Literature Review |
+1 | Wed, 17 Jan      | Welcome, [Activity01: Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
+1 | Friday 19 Jan    | (580/610) [Activity02: Peer review form for 610 student work](https://forms.gle/SHH7VAAYb1ywgVnA8)|
+2 | 22 Jan - 26      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39) |
 3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: Literature review of project material |
 4 | 5 - 9 Feb        | __Dept Project Prototype Development__: Method selection |
 5 | 12 - 16 Feb      | __Dept Project Prototype Development__: Implementation |
@@ -221,3 +221,11 @@ Week # | Dates   | Topic |
 14 | 15 - 19 Apr     | __Own Project__: Project Idea Feedback and Revision |
 15 | 22 - 26 Apr     | __Own Project Proposal__ |
 16 | 29 April        | __Own Project Proposal__: due  |
+
+### Resources
+
+#### Literature Review forms
+
+- Excelsior's Online Writing Lab: [article checklist](https://owl.excelsior.edu/wp-content/uploads/2019/06/SourceEvaluationChecklistInteractive.pdf)
+
+- Modern Language Association: [article checklist](https://style.mla.org/app/uploads/sites/3/2018/09/Checklist-for-Evaluating-Sources.pdf)
