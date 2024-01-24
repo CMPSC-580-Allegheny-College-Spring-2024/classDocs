@@ -204,23 +204,24 @@ For Monday, Wednesday Meetings, we will be following the below calendar. However
 
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
-1 | Wed, 17 Jan      | Welcome, [Activity01: Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
-1 | Friday 19 Jan    | (580/610) [Activity02: Peer review form for 610 student work](https://forms.gle/SHH7VAAYb1ywgVnA8)|
-2 | 22 Jan - 26      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39), due at start of following class.|
-3 | 29 Jan - 2 Feb   | Overview of Departmental Projects: Literature review of project material |
-4 | 5 - 9 Feb        | __Dept Project Prototype Development__: Method selection |
-5 | 12 - 16 Feb      | __Dept Project Prototype Development__: Implementation |
-6 | 19 - 23 Feb      | __Dept Project Prototype Development__: Testing |
-7 | 26 - 1 Mar       | __Dept Project Prototype Development__: Experiments and results |
-8 | SPRING-BREAK     | Spring Break |
-9 | 11 - 15 Mar      | __Own Project__: Idea exploration, Literature review and feasibility |
-10 | 18 - 22 Mar     | __Own Project__: Method exploration, Prototype development |
-11 | 25 - 29 Mar     | __Own Project__: Prototype development|
-12 | 1 - 5 Apr       | __Own Project__: Project Idea Pitches|
-13 | 8 - 12 Apr      | __Own Project__: Project Idea Pitches|
-14 | 15 - 19 Apr     | __Own Project__: Project Idea Feedback and Revision |
-15 | 22 - 26 Apr     | __Own Project Proposal__ |
-16 | 29 April        | __Own Project Proposal__: due  |
+1 | Wed, 17 Jan         | Welcome, [Activity01: Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
+1 | Friday 19 Jan       | (580/610) [Activity02: Peer review form for 610 student work](https://forms.gle/SHH7VAAYb1ywgVnA8)|
+2 | Monday, 22 Jan      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39), due at start of following class|
+2 | Wednesday, 24 Jan   | Reading a technical paper for comprehension. [Activity 04](https://forms.gle/Kps2NqgM99R7zgMP9), due at start of class on Monday|
+3 | 29 Jan - 2 Feb      | Overview of Departmental Projects: Literature review of project material |
+4 | 5 - 9 Feb           | __Dept Project Prototype Development__: Method selection |
+5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation |
+6 | 19 - 23 Feb         | __Dept Project Prototype Development__: Testing |
+7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results |
+8 | SPRING-BREAK        | Spring Break |
+9 | 11 - 15 Mar         | __Own Project__: Idea exploration, Literature review and feasibility |
+10 | 18 - 22 Mar        | __Own Project__: Method exploration, Prototype development |
+11 | 25 - 29 Mar        | __Own Project__: Prototype development|
+12 | 1 - 5 Apr          | __Own Project__: Project Idea Pitches|
+13 | 8 - 12 Apr         | __Own Project__: Project Idea Pitches|
+14 | 15 - 19 Apr        | __Own Project__: Project Idea Feedback and Revision |
+15 | 22 - 26 Apr        | __Own Project Proposal__ |
+16 | 29 April           | __Own Project Proposal__: due  |
 
 ### Resources
 
