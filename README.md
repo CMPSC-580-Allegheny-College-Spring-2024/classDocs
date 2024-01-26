@@ -206,8 +206,9 @@ Week # | Dates   | Topic |
 ---------------- | ---- | --- |
 1 | Wed, 17 Jan         | Welcome, [Activity01: Getting to know you](https://forms.gle/ChnPifDU4ETRTNiH7) |
 1 | Friday 19 Jan       | (580/610) [Activity02: Peer review form for 610 student work](https://forms.gle/SHH7VAAYb1ywgVnA8)|
-2 | Monday, 22 Jan      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39), due at start of Wed's class (24 Jan 2024)|
+2 | Monday, 22 Jan      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39), due at start of Friday's class (24 Jan 2024)|
 2 | Wednesday, 24 Jan   | Reading a technical paper for comprehension. [Activity04](https://forms.gle/Kps2NqgM99R7zgMP9), due at start of class on Monday, 29 Jan 2024|
+1 | Friday 26 Jan        | (580/610) Running or testing artifact from 610 [Activity05](https://forms.gle/tyvvaZ3MbHd14qgt7), due at start of Friday's class|
 3 | 29 Jan - 2 Feb      | Overview of Departmental Projects: Literature review of project material |
 4 | 5 - 9 Feb           | __Dept Project Prototype Development__: Method selection |
 5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation |
