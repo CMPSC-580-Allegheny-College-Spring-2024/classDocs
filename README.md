@@ -7,6 +7,7 @@ This repository contains information about Data Analysis, including the course o
 ## Content
 
 - [Schedule](#schedule)
+- [Exemplar Projects](#examplar-projects)
 - [Course Deliverable](#course-deliverable)
 - [Course Description](#course-description)
 - [Learning Outcomes](#learning-outcomes)
@@ -45,6 +46,10 @@ Email: obonhamcarter@allegheny.edu
 - Alden Hall, 101 Lecture
 
 Note: There is no lab for this course.
+
+### Examplar Projects
+
+The project link can be found at [https://github.com/ReadyResearchers-2023-24/cmpsc-580-exemplar-projects](https://github.com/ReadyResearchers-2023-24/cmpsc-580-exemplar-projects)
 
 ### Discord
 
