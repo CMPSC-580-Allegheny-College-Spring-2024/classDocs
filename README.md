@@ -11,6 +11,7 @@ This repository contains information about Data Analysis, including the course o
 - [Course Deliverable](#course-deliverable)
 - [Course Description](#course-description)
 - [Learning Outcomes](#learning-outcomes)
+- [Distribution Requirements](#distribution-requirements)
 - [Suggested TextBooks](#suggested-textbooks)
 - [Other Useful Textbooks](#other-useful-textbooks)
 - [Course Policies](#course-policies)
@@ -65,7 +66,12 @@ If you are already on the department's Discord server, then you will be given ac
 
 - Credits: 4
 
-An investigation of select topics in computer and information science that prepares students for the completion of a senior project with the purpose of identifying knowledge gaps in the discipline. Students learn how to read scholarly papers, state and motivate research questions, create a software prototype or develop scholarly artifacts to address their findings, and collect and organize evidence for evaluating the outcome of their project. During a weekly laboratory session students use industry-grade technology to gain practical skills in technical writing, the presentation of technical concepts, and the production of an artifact. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: Permission of instructor. Distribution Requirements: None.
+An investigation of select topics in computer and information science that prepares students for the completion of a senior project with the purpose of identifying knowledge gaps in the discipline. Students learn how to read scholarly papers, state and motivate research questions, create a software prototype or develop scholarly artifacts to address their findings, and collect and organize evidence for evaluating the outcome of their project. During a weekly laboratory session students use industry-grade technology to gain practical skills in technical writing, the presentation of technical concepts, and the production of an artifact. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: Permission of instructor. 
+
+
+## Distribution Requirements
+
+None 
 
 ## Learning Outcomes
 
