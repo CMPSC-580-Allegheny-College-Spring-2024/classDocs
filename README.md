@@ -220,7 +220,7 @@ Week # | Dates   | Topic |
 2 | Monday, 22 Jan      | Introduction to Literature Review, [Activity03: Literature Review](https://forms.gle/hkpGncN5WQUcjCZ39), due at start of Friday's class (24 Jan 2024)|
 2 | Wednesday, 24 Jan   | Reading a technical paper for comprehension. [Activity04](https://forms.gle/Kps2NqgM99R7zgMP9), due at start of class on Monday, 29 Jan 2024|
 2 | Friday 26 Jan        | (580/610) Running or testing artifact from 610 [Activity05](https://forms.gle/tyvvaZ3MbHd14qgt7), due at start of Friday's class|
-3 | 29 Jan - 2 Feb      | Overview of Departmental Projects: Literature review of project material |
+3 | 29 Jan - 2 Feb      | Overview of Departmental Projects: Literature review of project material, [Exemplar Project Assigned](https://classroom.github.com/a/Y4rZMh1t) |
 4 | 5 - 9 Feb           | __Dept Project Prototype Development__: Method selection |
 5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation |
 6 | 19 - 23 Feb         | __Dept Project Prototype Development__: Testing |
