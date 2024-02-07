@@ -108,6 +108,10 @@ Along with reading the required books, you will be asked to study many additiona
 
 ### Grading
 
+#### Gradebook repository
+
+You will be able to receive updates about your grades from your [gradebook](https://classroom.github.com/a/lBuCX8Nw) repository.
+
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
 |Category              | Percentage | Assessment metric
