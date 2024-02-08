@@ -14,7 +14,7 @@ This repository contains information about Data Analysis, including the course o
 - [Distribution Requirements](#distribution-requirements)
 - [Suggested TextBooks](#suggested-textbooks)
 - [Other Useful Textbooks](#other-useful-textbooks)
-- [Course Policies](#course-policies)
+- [Policies](#policies)
 - [Grading](#grading)
 - [Grading Scale](#grading-scale)
 - [Definitions of Grading Categories](#definitions-of-grading-categories)
@@ -104,13 +104,13 @@ Along with reading the required books, you will be asked to study many additiona
 
 - Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004.
 
-## Course Policies
+## Policies
 
-### Grading
+### Grading 
 
-#### Gradebook repository
+Use your [Gradebook Repository](https://classroom.github.com/a/lBuCX8Nw) to receive updates from the instructor. The repository is only for receiving reports -- you will never have to post to this repository.
 
-You will be able to receive updates about your grades from your [gradebook](https://classroom.github.com/a/lBuCX8Nw) repository.
+### Grading Scale
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
