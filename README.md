@@ -227,6 +227,7 @@ Week # | Dates   | Topic |
 3 | 29 Jan - 2 Feb      | [Overview of Departmental Projects](https://github.com/ReadyResearchers-2023-24/cmpsc-580-exemplar-projects/tree/main): Literature review of project material, [Exemplar Project Assigned](https://classroom.github.com/a/Y4rZMh1t) |
 3 | Friday 2 Feb | (580/610) Re-Running and verifying that implementations / improvements were made [Activity06](https://forms.gle/bM1pdZDsXibV7a4m9)|
 4 | 5 - 9 Feb           | __Dept Project Prototype Development__: Method selection |
+4 | 9 Feb               | (580/610) Peer review the Methods chapter from 610 [Activity07](https://forms.gle/pnKQyNvU3iPL4Vr58)| 
 5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation |
 6 | 19 - 23 Feb         | __Dept Project Prototype Development__: Testing |
 7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results |
