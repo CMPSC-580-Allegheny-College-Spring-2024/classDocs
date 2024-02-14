@@ -225,10 +225,10 @@ Week # | Dates   | Topic |
 2 | Wednesday, 24 Jan   | Reading a technical paper for comprehension. [Activity04](https://forms.gle/Kps2NqgM99R7zgMP9), due at start of class on Monday, 29 Jan 2024|
 2 | Friday 26 Jan        | (580/610) Running or testing artifact from 610 [Activity05](https://forms.gle/tyvvaZ3MbHd14qgt7), due at start of Friday's class|
 3 | 29 Jan - 2 Feb      | [Overview of Departmental Projects](https://github.com/ReadyResearchers-2023-24/cmpsc-580-exemplar-projects/tree/main): Literature review of project material, [Exemplar Project Assigned](https://classroom.github.com/a/Y4rZMh1t) |
-3 | Friday 2 Feb | (580/610) Re-Running and verifying that implementations / improvements were made [Activity06](https://forms.gle/bM1pdZDsXibV7a4m9)|
+3 | Friday 2 Feb | (580/610) Re-Running and verifying that implementations / improvements were made [Activity06](https://forms.gle/bM1pdZDsXibV7a4m9) Due on Friday 9th Feb at start of class |
 4 | 5 - 9 Feb           | __Dept Project Prototype Development__: Method selection |
 4 | 9 Feb               | (580/610) Peer review the Methods chapter from 610 [Activity07](https://forms.gle/pnKQyNvU3iPL4Vr58)| 
-5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation |
+5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation [Activity08](https://forms.gle/DZ1MnA3bHp2cYiSp8), Due on Friday 16th at start of class |
 6 | 19 - 23 Feb         | __Dept Project Prototype Development__: Testing |
 7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results |
 8 | SPRING-BREAK        | Spring Break |
