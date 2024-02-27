@@ -146,7 +146,7 @@ All assignments will have a stated due date. The electronic version of the class
 
 ### Attendance
 
-It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
+It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five unexcused classes, laboratory sessions, or group project meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Late Submissions
 
