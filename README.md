@@ -230,7 +230,7 @@ Week # | Dates   | Topic |
 4 | 9 Feb               | (580/610) Peer review the Methods chapter from 610 [Activity07](https://forms.gle/pnKQyNvU3iPL4Vr58) Due on Wednesday 14 Feb at start of class | 
 5 | 12 - 16 Feb         | __Dept Project Prototype Development__: Implementation [Activity08](https://forms.gle/DZ1MnA3bHp2cYiSp8), Due on Friday 16th at start of class, Reviewing Artifact [Activity09](https://forms.gle/z4KRsEFpRsou7sjV8) |
 6 | 19 - 23 Feb         | __Dept Project Prototype Development__: Testing [Activity10](https://forms.gle/vi7XDCBaCKCzZBVJ6), Due Friday 1st March at start of class |
-7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results [Activity 11](https://forms.gle/TxcysYMKozj1n6kg7) Due Friday 15th March at start of class|
+7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results [Activity 11](https://forms.gle/TxcysYMKozj1n6kg7) Due Wednesday 13th March at start of class|
 8 | SPRING-BREAK        | Spring Break |
 9 | 11 - 15 Mar         | __Own Project__: Idea exploration, Literature review and feasibility |
 10 | 18 - 22 Mar        | __Own Project__: Method exploration, Prototype development |
