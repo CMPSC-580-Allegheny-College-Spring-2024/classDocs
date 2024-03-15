@@ -233,7 +233,7 @@ Week # | Dates   | Topic |
 7 | 26 - 1 Mar          | __Dept Project Prototype Development__: Experiments and results [Activity 11](https://forms.gle/TxcysYMKozj1n6kg7) Due Wednesday 13th March at start of class|
 8 | SPRING-BREAK        | Spring Break |
 9 | 11 - 15 Mar         | Work on projects, Video [My Step by Step Guide to Writing a Research Paper](https://www.youtube.com/watch?v=-JcgRyJUfZM), [The Basics of APA In-text Citations](https://www.youtube.com/watch?v=hhD4xaGAcRs)    |
-10 | 18th Mar           | _Special Note!_ __Dept Project__: Due 18th March 2024 at 1:30pm
+10 | 18th Mar           | _Special Note!_ __Dept Project__: Due 18th March 2024 at 1:30pm, [Activity12](https://forms.gle/3iU2thA8nWc486ic9)|
 10 | 18 - 22 Mar        | __Own Project__: Idea exploration, Literature review and feasibility, Method exploration|
 11 | 25 - 29 Mar        | __Own Project__: Prototype development|
 12 | 1 - 5 Apr          | __Own Project__: Project Idea Pitches|
