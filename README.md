@@ -234,13 +234,13 @@ Week # | Dates   | Topic |
 8 | SPRING-BREAK        | Spring Break |
 9 | 11 - 15 Mar         | Work on projects, Video [My Step by Step Guide to Writing a Research Paper](https://www.youtube.com/watch?v=-JcgRyJUfZM), [The Basics of APA In-text Citations](https://www.youtube.com/watch?v=hhD4xaGAcRs)    |
 10 | 18th Mar           | _Special Note!_ __Dept Project__: Due 18th March 2024 at 1:30pm, [Activity12](https://forms.gle/3iU2thA8nWc486ic9)|
-10 | 18 - 22 Mar        | __Own Project__: Idea exploration, Literature review and feasibility, Method exploration|
-11 | 25 - 29 Mar        | __Own Project__: Prototype development|
-12 | 1 - 5 Apr          | __Own Project__: Project Idea Pitches|
-13 | 8 - 12 Apr         | __Own Project__: Project Idea Pitches|
-14 | 15 - 19 Apr        | __Own Project__: Project Idea Feedback and Revision |
-15 | 22 - 26 Apr        | __Own Project Proposal__ |
-16 | 29 April           | __Own Project Proposal__: due  |
+10 | 18 - 22 Mar        | __Own Project__: Idea exploration and selection, [Activity 13](https://forms.gle/mYkPyWpWefHtY7H59) Due Friday 22nd March at start of class. [Activity 14](https://docs.google.com/presentation/d/17EdnfmO4nkjliBusehKeMJ5Val9M2iDGDm2H1TqaAnw/edit?usp=sharing) Presentations in class on Wednesday 20th March|
+11 | 25 - 29 Mar        | __Own Project__: Literature review and feasibility|
+12 | 1 - 5 Apr          | __Own Project__: Prototype development|
+13 | 8 - 12 Apr         | __Own Project__: Prototype development|
+14 | 15 - 19 Apr        | __Own Project__: Project Idea Pitches |
+15 | 22 - 26 Apr        | __Own Project__: Project Feedback and Revision |
+16 | 29 April           | __Own Project__: Finalize Proposal and Prototype  |
 
 ### Resources
 
