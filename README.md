@@ -166,10 +166,11 @@ The decision to provide you with an extension (or not) will be weighed in light 
 
 If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
 
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
 - [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 - [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Communication
 
@@ -186,14 +187,6 @@ During the semester, you will be told which software to install on your machine 
 ### Special Needs and Disability Services
 
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
-
-Some of the resources on campus are listed below.
-
-- [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
-- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Honor Code
 
