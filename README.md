@@ -1,6 +1,6 @@
 # Junior Seminar (CMPSC 580) Course Syllabus
 
-# Semster Spring 2024
+# Semester Spring 2024
 
 This repository contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
@@ -229,7 +229,7 @@ Week # | Dates   | Topic |
 10 | 18th Mar           | _Special Note!_ __Dept Project__: Due 18th March 2024 at 1:30pm, [Activity12](https://forms.gle/3iU2thA8nWc486ic9) Due Wednesday 20th March at start of class|
 10 | 18 - 22 Mar        | __Own Project__: Idea exploration and selection: [Activity 13](https://forms.gle/mYkPyWpWefHtY7H59) Due Friday 22nd March at start of class, [Activity 14](https://docs.google.com/presentation/d/17EdnfmO4nkjliBusehKeMJ5Val9M2iDGDm2H1TqaAnw/edit?usp=sharing) Presentations in class on Wednesday 20th March, [Activity 15](https://forms.gle/yFcREnKvcUB5z8ao9) Due Wednesday 27th March at start of class |
 11 | 25 - 29 Mar        | __Own Project__: Literature review and feasibility, [Activity 16](https://forms.gle/mFfqFH418QrvpA3Q7), Due on Friday: 29th March 2024|
-12 | 1 - 5 Apr          | __Own Project__: Prototype development|
+12 | 1 - 5 Apr          | __Own Project__: Prototype development, [Reader Preferences](https://forms.gle/Ca5DvrPE2AusQSTL9) Due on Friday 5th April at start of class.|
 13 | 8 - 12 Apr         | __Own Project__: Prototype development|
 14 | 15 - 19 Apr        | __Own Project__: Project Idea Pitches |
 15 | 22 - 26 Apr        | __Own Project__: Project Feedback and Revision |
