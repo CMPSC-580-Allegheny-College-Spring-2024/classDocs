@@ -232,7 +232,7 @@ Week # | Dates   | Topic |
 12 | 1 - 5 Apr          | [__Own Project Repository__](https://classroom.github.com/a/2OGTtL0Y): Prototype development and start proposal writing, [Reader Preferences](https://forms.gle/Ca5DvrPE2AusQSTL9) Due on Friday 5th April at start of class.|
 13 | 8 - 12 Apr         | __Own Project__: Prototype development and continue proposal writing, [Project Pitches](https://docs.google.com/presentation/d/154V9XquBwLsIVaasJO24e4KglLS9eeVW5e-3mX2OjWc/edit?usp=sharing)|
 14 | 15 - 19 Apr        | [Reader assignments](https://docs.google.com/spreadsheets/d/1KpcS3DvcN1eED-dFhSRuDB-EZnybsBmRIPH0oFRyTwU/edit?usp=sharing) __Own Project__: Project Idea Pitches and continue proposal writing |
-15 | 22 - 26 Apr        | __Own Project__: Project Feedback [Activity17](https://docs.google.com/forms/d/e/1FAIpQLSeNQ-CJjknW5cCqaIK3yTugBPGpLyh2M9qQhDoDgLFMmaVREQ/viewform?usp=sf_link) and Revision |
+15 | 22 - 26 Apr        | __Own Project__: Project Feedback [Activity17](https://docs.google.com/forms/d/e/1FAIpQLSeNQ-CJjknW5cCqaIK3yTugBPGpLyh2M9qQhDoDgLFMmaVREQ/viewform?usp=sf_link) and Revision, Survey: [Course Learning Objectives](https://docs.google.com/forms/d/e/1FAIpQLSdwksq-RtQclU_tFgzVKgk5KEs55081FVqUaKseiFxMZueIUA/viewform?usp=sf_link)  |
 16 | 29 April           | __Own Project__: Finalize Proposal and Prototype  |
 
 ### Resources
